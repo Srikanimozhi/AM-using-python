@@ -22,7 +22,9 @@ Algorithm
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 program:
+
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 Am = 4.8
