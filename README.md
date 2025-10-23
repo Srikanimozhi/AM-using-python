@@ -65,6 +65,10 @@ Output:
 
 <img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/a15f364a-3c48-4347-880f-f37499691e47" />
 
+calculation:
+
+![WhatsApp Image 2025-10-23 at 21 19 55_0ae202c5](https://github.com/user-attachments/assets/aaad8266-d02c-4397-8182-ba251e73ec02)
+
 
 Result
 
