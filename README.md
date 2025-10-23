@@ -25,7 +25,6 @@ program:
 import numpy as np
 import matplotlib.pyplot as plt
 Am = 4.8
-
 Ac = 9.6
 
 fm = 577
